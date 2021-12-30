@@ -16,7 +16,7 @@
 
 💬 Ask me about Flutter and Front end Web Development🤠👩‍💼.
 
-📫 You can conect me on [Linked-in](https://www.linkedin.com/in/shivani-gupta-b5130421a)
+📫 You can connect me on [Linked-in](https://www.linkedin.com/in/shivani-gupta-b5130421a)
 
 
 <!-- ## 🚀 Languages and Tools:
